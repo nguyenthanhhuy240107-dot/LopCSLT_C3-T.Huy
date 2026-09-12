@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Ex._14
 {
-    internal class Program
+    internal class ex14
     {
         static void Main(string[] args)
         {
