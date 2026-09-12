@@ -20,7 +20,7 @@ namespace Bàitập
             {
                 for (int j = 1; j <= i; j++)
                 {
-                    Console.Write("{0} ", j);
+                    Console.Write($"{j} ");
                 }
                 Console.WriteLine();
             }
@@ -32,7 +32,7 @@ namespace Bàitập
             {
                 for (int j = 1; j <= i; j++)
                 {
-                    Console.Write("{0} ", n);
+                    Console.Write($"{n} ");
                     n++;
                 }
                 Console.WriteLine();
@@ -54,7 +54,7 @@ namespace Bàitập
                 // In số liên tục
                 for (int j = 1; j <= i; j++)
                 {
-                    Console.Write(n + " ");
+                    Console.Write($"{n} ");
                     n++;
                 }
                 Console.WriteLine();

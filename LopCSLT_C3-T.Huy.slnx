@@ -20,6 +20,6 @@
     <Project Path="Ex9/Ex.09.csproj" Id="9be88a75-a3ac-472e-9ce9-a94eb9da1918" />
   </Folder>
   <Folder Name="/buoi5/">
-    <Project Path="Ex.1/Ex.1.csproj" Id="e0dae247-b03e-4c1f-bc2f-e3620d1eef48" />
+    <Project Path="ConsoleApp2/bài tập.csproj" Id="839cebc6-9c8f-4ab8-8778-2e68ff853618" />
   </Folder>
 </Solution>
