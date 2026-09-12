@@ -1,5 +1,4 @@
 <Solution>
-  <Folder Name="/buoi3/" />
   <Folder Name="/Buoi4/">
     <Project Path="Ex.11/Ex.11.csproj" Id="61c011a3-a61b-4816-9866-7a29c2832624" />
     <Project Path="Ex.12/Ex.12.csproj" Id="89b6abba-2cb9-42cc-b8cb-d4c9bdbb2817" />
@@ -18,8 +17,5 @@
     <Project Path="Ex7/Ex.07.csproj" Id="7a359b81-1622-4cfd-b6b9-cc6b7c0030b4" />
     <Project Path="Ex8/Ex.08.csproj" Id="6ba08797-2c5d-46f0-bd06-c6e1e8c3108f" />
     <Project Path="Ex9/Ex.09.csproj" Id="9be88a75-a3ac-472e-9ce9-a94eb9da1918" />
-  </Folder>
-  <Folder Name="/buoi5/">
-    <Project Path="ConsoleApp2/bài tập.csproj" Id="839cebc6-9c8f-4ab8-8778-2e68ff853618" />
   </Folder>
 </Solution>
